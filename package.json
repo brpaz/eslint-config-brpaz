@@ -12,6 +12,10 @@
     "eslint-config",
     "eslintconfig"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brpaz/eslint-config-brpaz"
+  },
   "author": "Bruno Paz <brunopaz@sapo.pt>",
   "license": "MIT",
   "dependencies": {
